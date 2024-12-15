@@ -28,3 +28,11 @@ Bu Java Swing uygulaması, kullanıcıların güvenli şifreler oluşturmasını
 ## Katkıda Bulunma
 
 Katkıda bulunmak isterseniz, pull request gönderebilirsiniz.
+
+## Projeden Kareler 📸
+
+<img width="512" alt="Screenshot 2024-12-15 at 14 48 20" src="https://github.com/user-attachments/assets/d2141007-42e1-4060-9803-0a6c0e34559b" />
+<img width="512" alt="Screenshot 2024-12-15 at 14 48 32" src="https://github.com/user-attachments/assets/a4677996-307f-4003-a74a-eecbc6862c55" />
+shot 2024-12-15 at 14.48.41.png…]()
+<img width="512" alt="Screenshot 2024-12-15 at 14 48 11" src="https://github.com/user-attachments/assets/8b9f0c4f-389e-4b6e-b3c4-b37d8f4644f1" />
+<img width="1792" alt="Screenshot 2024-12-15 at 14 40 36" src="https://github.com/user-attachments/assets/1242e37c-79e9-4689-87af-fff7e372a81c" />
